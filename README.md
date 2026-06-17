@@ -2,11 +2,11 @@
 
 KCM is a subject-first framework of consciousness based on a simple question:
 
-**For whom does experience appear?**---## 
+**For whom does experience appear?**
 
------
+--- 
 
-Core Idea
+## Core Idea
 
 Every experience involves three inseparable elements:
 
@@ -27,7 +27,7 @@ KCM asks whether these explanations also account for the **presence of experienc
 
 ## Key Paper
 
-[Add your main paper link here]
+https://doi.org/10.17605/OSF.IO/EX3VN
 
 ---
 
