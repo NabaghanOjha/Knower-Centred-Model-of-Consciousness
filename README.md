@@ -2,9 +2,9 @@
 
 KCM is a subject-first framework of consciousness based on a simple question:
 
-**For whom does experience appear?
+For whom does experience appear?
 
-**## Core Idea
+Core Idea
 ...
 
 Every experience involves three inseparable elements:
@@ -15,7 +15,7 @@ Every experience involves three inseparable elements:
 
 This forms the K–N–C (K³) triad.
 
----
+
 
 ## Why KCM?
 
